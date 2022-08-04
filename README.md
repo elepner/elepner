@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eduard Lepner
 --------
 
-I'm a senior software developer at [Invarion](https://invarion.com/). I'm doing asp.net/Azure/Angular stuff currently. I used to have heavy background in ArcGIS. At Invarion I solve quite tricky algorithmic and architecutre problems like in [that project](https://invarion.com/eu/products/rapidpath-online/). Also I'm responsible for cloud architecture and supervise cloud infrastructure in the company.
+I'm a senior software developer at [Invarion](https://invarion.com/). I'm doing asp.net/Azure/Angular stuff currently. I have a depth of experience with ArcGIS. My role at Invarion involves solving quite tricky algorithmic and architecutre problems: here is an [example project](https://invarion.com/eu/products/rapidpath-online/) I have been working on. I am also responsible for cloud architecture and supervision of cloud infrastructure in the company.
 I live in Gańsk, Poland.
 
 ## Work experience
