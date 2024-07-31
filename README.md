@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eduard Lepner
 --------
 
-I'm a senior software developer at [Invarion](https://invarion.com/) with over 10 years of experience, specializing in SaaS since 2016. I primarily work with ASP.NET Core, Azure, and Angular, along with related technologies, including:
+I'm a senior software developer at [Invarion](https://invarion.com/) with over 10 years of experience, specializing in SaaS since 2016. I primarily work with C#/ASP.NET Core, Azure, and Angular, along with related technologies, including:
 - Azure DevOps
 - NGRX
 - RxJS
@@ -9,8 +9,7 @@ I'm a senior software developer at [Invarion](https://invarion.com/) with over 1
 - DocumentDB
 - Azure Table Storage
 - Azure Service Bus
-- etc
-- 
+
 I have extensive experience with ArcGIS and play a lead role in developing a feature-rich, web-based specialized [vector graphics editor for traffic management](https://invarion.com/products/rapidplan-online/). My responsibilities at Invarion include solving complex algorithmic and architectural problems. For example, I worked on a [project](https://invarion.com/eu/products/rapidpath-online/) enabling users to conduct swept path analysis. Additionally, I oversee cloud architecture and supervise the cloud infrastructure for the company.
 
 ## Work experience
