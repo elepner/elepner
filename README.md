@@ -7,13 +7,20 @@ I'm a senior software developer at [Invarion](https://invarion.com/) with over 1
 - RxJS
 - SQL/Azure SQL
 - DocumentDB
+- React (NextJS)
+- React Native
+- Effect-ts
 - Azure Table Storage
 - Azure Service Bus
 
 I play a lead role in developing a feature-rich, web-based specialized [vector graphics editor for traffic management](https://invarion.com/products/rapidplan-online/). My responsibilities at Invarion include solving complex algorithmic and architectural problems, managing a small team of 4 people. For example, I work on a [project](https://invarion.com/eu/products/rapidpath-online/) enabling users to conduct swept path analysis. Additionally, I oversee cloud architecture and supervise the cloud infrastructure for the company.
 
-## Work experience
+In addition to my work at Invarion, during the past year I have been deeply involved in a confidential project focused on creating strong digital evidence of user actions. This work has significantly expanded my expertise in modern TypeScript ecosystems, particularly React Native, Next.js, and Effect-TS, with a strong emphasis on type-safe architectures, functional programming, and concurrency-oriented system design.
 
+## Work experience
+- 2025 – Present: Confidential Digital Evidence Platform (NDA)
+  - Over the past year, I have expanded my expertise by contributing to a confidential project focused on creating verifiable digital evidence of user actions and interactions. The platform is designed to provide strong auditability, traceability, and integrity guarantees for digitally recorded events.
+  - Designed and implemented cross-platform mobile and web applications using React Native and Next.js. Established a highly type-safe architecture leveraging Effect-TS, enabling reliable error handling, dependency management, and composable business workflows.
 - Nov 2019 - Now: [Invarion](https://invarion.com/): Senior Software Developer. Team leader.
 Reposibilities:
   - Developing a feature-rich, web-based specialized vector graphics editor for traffic management and swept path analysis.
